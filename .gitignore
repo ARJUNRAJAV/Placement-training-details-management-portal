@@ -1,0 +1,11 @@
+# Ignore all node_modules
+**/node_modules/
+
+# Build files
+portal/build/
+portal/dist/
+
+
+
+# Logs
+**/npm-debug.log
